@@ -1,0 +1,1 @@
+LSD is a psychedelic known for creating the counter-culture movement in the United States, along with [Mushrooms](/drug/mushrooms).
