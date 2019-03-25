@@ -1,10 +1,14 @@
 {
-    "alt_names": [],
-    "tags": [],
+    "alt_names": [
+        "ketum"
+    ],
+    "tags": [
+        "safe"
+    ],
     "doses": {
-        "low": null,
-        "normal": null,
-        "high": null,
+        "low": 1500000,
+        "normal": 3000000,
+        "high": 5000000,
         "fatal": null
     }
 }
