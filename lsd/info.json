@@ -1,10 +1,17 @@
 {
-    "alt_names": [],
-    "tags": [],
+    "alt_names": [
+        "acid",
+        "lucy",
+        "tabs"
+    ],
+    "tags": [
+        "safe",
+        "frightening"
+    ],
     "doses": {
-        "low": null,
-        "normal": null,
-        "high": null,
+        "low": 20,
+        "normal": 75,
+        "high": 150,
         "fatal": null
     }
 }
