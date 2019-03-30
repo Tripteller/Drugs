@@ -1,6 +1,8 @@
 {
     "alt_names": [],
-    "tags": [],
+    "tags": [
+        "safe"
+    ],
     "doses": {
         "low": null,
         "normal": null,
