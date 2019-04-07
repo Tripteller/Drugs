@@ -1,5 +1,7 @@
 {
-    "alt_names": [],
+    "alt_names": [
+        "aMT"
+    ],
     "tags": [],
     "doses": {
         "low": null,
