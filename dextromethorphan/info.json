@@ -1,10 +1,16 @@
 {
-    "alt_names": [],
-    "tags": [],
+    "alt_names": [
+        "DXM",
+        "Robitussin",
+        "robo-tripping"
+    ],
+    "tags": [
+        "long-term"
+    ],
     "doses": {
-        "low": null,
-        "normal": null,
-        "high": null,
+        "low": 100000,
+        "normal": 200000,
+        "high": 400000,
         "fatal": null
     }
 }
