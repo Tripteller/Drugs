@@ -1,10 +1,19 @@
 {
-    "alt_names": [],
-    "tags": [],
+    "alt_names": [
+        "molly",
+        "ecstasy",
+        "XTC",
+        "E"
+    ],
+    "tags": [
+        "deadly",
+        "do-not-mix",
+        "long-term"
+    ],
     "doses": {
-        "low": null,
-        "normal": null,
-        "high": null,
-        "fatal": null
+        "low": 50000,
+        "normal": 75000,
+        "high": 150000,
+        "fatal": 750000
     }
 }
