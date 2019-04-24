@@ -1,10 +1,16 @@
 {
-    "alt_names": [],
-    "tags": [],
+    "alt_names": [
+        "Psilocybin",
+        "Mushies",
+        "Caps"
+    ],
+    "tags": [
+        "affects-driving"
+    ],
     "doses": {
-        "low": null,
-        "normal": null,
-        "high": null,
+        "low": 1000000,
+        "normal": 3000000,
+        "high": 7000000,
         "fatal": null
     }
 }
