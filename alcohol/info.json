@@ -1,6 +1,13 @@
 {
-    "alt_names": [],
-    "tags": [],
+    "alt_names": [
+        "beer",
+        "liquor",
+        "booze"
+    ],
+    "tags": [
+        "affects-driving",
+        "do-not-mix"
+    ],
     "doses": {
         "low": null,
         "normal": null,
