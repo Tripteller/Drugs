@@ -1,6 +1,14 @@
 {
-    "alt_names": [],
-    "tags": [],
+    "alt_names": [
+        "Speed",
+        "Dope",
+        "Meth",
+        "Crystal"
+    ],
+    "tags": [
+        "deadly",
+        "long-term"
+    ],
     "doses": {
         "low": null,
         "normal": null,
