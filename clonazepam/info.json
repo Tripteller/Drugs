@@ -1,6 +1,12 @@
 {
-    "alt_names": [],
-    "tags": [],
+    "alt_names": [
+        "klonopin",
+        "k-pin"
+    ],
+    "tags": [
+        "affects-driving",
+        "do-not-mix"
+    ],
     "doses": {
         "low": null,
         "normal": null,
