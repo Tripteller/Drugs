@@ -1,5 +1,7 @@
 {
-    "alt_names": [],
+    "alt_names": [
+        "O-DSMT"
+    ],
     "tags": [],
     "doses": {
         "low": null,
