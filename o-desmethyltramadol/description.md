@@ -1,0 +1,1 @@
+O-Desmethyltramadol (also known as O-DSMT) is the metabolite of tramadol, and is sold as a research chemical.
