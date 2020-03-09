@@ -1,13 +1,19 @@
 {
     "alt_names": [
         "3-Mephedrone",
-        "3-Methylmethcathinone"
+        "3-Methylmethcathinone",
+        "metaphedrone"
     ],
-    "tags": [],
+    "tags": [
+        "deadly",
+        "do-not-mix",
+        "long-term",
+        "research-chem"
+    ],
     "doses": {
-        "low": null,
-        "normal": null,
-        "high": null,
+        "low": 50000,
+        "normal": 150000,
+        "high": 300000,
         "fatal": null
     }
 }
