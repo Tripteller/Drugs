@@ -1,0 +1,1 @@
+Alcohol is a depressant that acts on the GABA receptors.
